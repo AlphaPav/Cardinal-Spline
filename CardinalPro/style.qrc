@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>base.qss</file>
+        <file>cargif.gif</file>
+        <file>carpng.png</file>
+    </qresource>
+</RCC>
