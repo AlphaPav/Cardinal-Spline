@@ -4,6 +4,4 @@ The realization of Cardinal Spline in "Computer Animation". Made with Qt Creator
 ## Demo
 ![image](pic1.png)
 
-![image](pic2.png)
-
-Click here to see the video :)
+[![IMAGE ALT TEXT](pic2.png)](https://youtu.be/rcIGJ6F8Tmw "CameraMaster")
